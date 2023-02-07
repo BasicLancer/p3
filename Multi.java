@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Multi
 
 {
-	Public void multii(
+	
 	public static void main(String[] args) 
 	{
 		Scanner in=new Scanner(System.in);
